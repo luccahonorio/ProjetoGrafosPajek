@@ -1,0 +1,52 @@
+*Vertices  11
+
+
+
+1 "Actor 1"
+
+
+
+2 "Actor 2"
+
+
+
+3 "Actor 3"
+
+
+
+4 "Event 1"
+
+5 "Actor 1"
+
+
+
+6 "Actor 2"
+
+
+
+7 "Actor 3"
+
+
+
+8 "Event 1"
+
+9 " asdad"
+
+10 "asdasd"
+
+11 "nbtaa"
+
+*Arcs // para não direcionado ou *Arcs para direcionado
+
+1 2 1
+1 3 1
+2 4 1
+2 5 1
+3 6 1
+9 8 1
+9 10 1
+7 11 1
+
+
+
+
